@@ -1,0 +1,16 @@
+{
+  "name": "classpass-ml-ecosystem",
+  "version": "0.1.0",
+  "description": "Comprehensive knowledge base and design partner for ClassPass ML products, technology, and ecosystem. Covers pricing, recommendations, classification, fraud detection, lifecycle models, and ML platform infrastructure.",
+  "author": {
+    "name": "Alex Klein"
+  },
+  "keywords": [
+    "classpass",
+    "machine-learning",
+    "pricing",
+    "recommendations",
+    "fraud-detection",
+    "mlops"
+  ]
+}
